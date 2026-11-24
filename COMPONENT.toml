@@ -1,6 +1,6 @@
 [component]
-name = "omacon"
-id = "sigmaos-omacon"
+name = "sigmaos-con"
+id = "sigmaos-con"
 kind = "component"
 license = "GPL-3.0-or-later"
 
